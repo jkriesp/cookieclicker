@@ -1,0 +1,2 @@
+# cookieclicker
+Python knowledge refresh
